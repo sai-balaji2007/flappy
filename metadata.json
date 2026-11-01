@@ -1,0 +1,8 @@
+{
+  "name": "Our Flying Adventure",
+  "description": "A vibrant 2D arcade flying adventure with customizable character & background photos, custom audio uploads, collectible bonuses, and smooth responsive gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
